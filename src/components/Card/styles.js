@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  max-width: 30.2rem;
+  max-width: 36.6rem;
   background-color: #202024;
   border: 2px solid #323238;
 
@@ -20,7 +20,6 @@ export const Container = styled.div`
 
     p {
       font-size: 2rem;
-      font-weight: 600;
       color: #C4C4CC;
     }
   }

@@ -7,6 +7,7 @@ export const Container = styled.main`
 
   margin-top: 7.3rem;
   margin-bottom: 11.4rem;
+  padding: 1.2rem;
 
   h1 {
     color: #02799D;
