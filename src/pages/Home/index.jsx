@@ -12,8 +12,10 @@ export function Home() {
   return (
     <Container>
       <div>
-        <h1>As maiores galáxias</h1>
-        <h2>E curiosidades sobre elas</h2>
+        <header>
+          <h1>As maiores galáxias</h1>
+          <h2>E curiosidades sobre elas</h2>
+        </header>
 
         <section>
           <Card
